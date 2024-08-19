@@ -15,7 +15,7 @@ resultado”);
 
 const perguntas = [
 {
-enunciado: “Pergunta 1”,
+enunciado: “V”,
 alternativas: [“Alternativa 1”, “Alternativa 2”],
 },
 {
