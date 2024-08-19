@@ -20,11 +20,11 @@ const perguntas = [
 },
 
 {
-    enunciado: "Pergunta 2",
+    enunciado: "Qual tipo?",
     alternativas: [
         {
 
-        texto: "Alternativa 1 da pergunta 2",
+        texto: "Mistério",
         afirmacao: "Afirmação 1 da pergunta 2"
         },
         {
