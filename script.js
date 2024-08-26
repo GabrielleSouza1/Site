@@ -24,11 +24,11 @@ const perguntas = [
     alternativas: [
         {
 
-        texto: "Mistério",
+        texto: "Mistério, Suspense, Drama, Terror",
         afirmacao: "Afirmação 1 da pergunta 2"
         },
         {
-        texto:"Alternativa 2 da pergunta 2",
+        texto:"Comédia, Romance",
         afirmacao: "Afirmação 2 da pergunta 2"
         }
     ]
