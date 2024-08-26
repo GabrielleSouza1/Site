@@ -28,7 +28,7 @@ const perguntas = [
         afirmacao: "Afirmação 1 da pergunta 2"
         },
         {
-        texto:"Comédia, Romance",
+        texto:"Comédia, Romance, Ficção Científica",
         afirmacao: "Afirmação 2 da pergunta 2"
         }
     ]
