@@ -43,7 +43,7 @@ const perguntas = [
         },
         {
         texto:"Grey's Anatomy",
-        afirmacao: "Afirmação 2 da pergunta 3"
+        afirmacao: "Você tem bom gosto!!"
         }
     ]
 }
